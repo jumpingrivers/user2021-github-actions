@@ -33,6 +33,15 @@ This course will be appropriate for you if you answer yes to these questions:
 2. Are you comfortable with basic git commands?
 3. Would you like to learn how to automate package checks and documentation using GitHub Actions?
 
+## Assumed Knowledge
+
+Participants must be familiar with:
+
+* writing basic R functions
+* basic git, e.g push, pull, commit, clone. 
+* basic GitHub
+* writing simple R package
+
 ## Prework
 
 Attendees are expected to use the provided training environment, and therefore there is no pre-work.
@@ -42,7 +51,6 @@ If you wish to use your own set up, please install the following packages.
 ```r
 install.packages(c("lintr", "testthat","usethis"))
 ```
-
 
 
 ## Example Schedule
