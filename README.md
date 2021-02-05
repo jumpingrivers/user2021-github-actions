@@ -22,7 +22,7 @@ At the end of the workshop, attendees will have learnt:
 
 * What GitHub Actions and continuous integration are
 * How to use “off-the-shelf" GitHub Actions via {usethis}
-* Hot to check packages, code style and generate package websites with GitHub Actions
+* How to check packages, code style and generate package websites with GitHub Actions
 * How to customise GitHub Actions
 
 ## Is this course for me?
