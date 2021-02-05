@@ -71,4 +71,5 @@ packages and has published the book Efficient R Programming with
 O’Reilly. As well as working in industry, Colin is also a part-time
 Senior Statistics lecturer at Newcastle University.
 
+[Code of conduct](https://user2021.r-project.org/participation/coc/)
 
